@@ -1,0 +1,23 @@
+TODO: implement game class with the below implementations:
+
+TODO: implement reading from image: reading model state from a snapshot of the game
+
+Need:
+- elixir (maybe try to find pixels that are only purple at certain elixir count (ex: 1 has purple pixel in center and no other numebrs have in that spot))
+- tower hp's
+- cards in hand
+
+Note:
+- can take initial snapshot at beginning of game
+    - then compare that to current snapshots to see if there any changes
+    - ex: compare to see if color changed to blue or red for friendly  or enemy unit respectively
+    - ex: compare to see if location around elixir changed to purple (new elixir count)
+
+
+TODO: implement making action of model (clicking on screen in desired spots)
+
+Need:
+- selecting card + selecting location to play
+- potentially: automate starting match against trainer for when training model
+
+TODO: implement running a game using our model(s)

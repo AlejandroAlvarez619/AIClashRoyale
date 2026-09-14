@@ -1,0 +1,9 @@
+TODO: implement our ai model logic
+
+- initializing neural network
+    - complete refresh with random values
+    - or: use one of saved models (saved file)
+- training model: 
+    - running game loop repeatedly and recording average fitness across games
+    - saving top 1-3 performing models, create new generation with these best performers + mutated models based off best performers
+    - at the end of the training session, save top 1-3 performing models to new files

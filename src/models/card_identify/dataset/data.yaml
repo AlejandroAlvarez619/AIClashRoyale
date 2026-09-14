@@ -1,0 +1,22 @@
+path: C:\Users\dmiller3905\Documents\clash_royale_ai\src\models\card-identify\dataset
+train: images/train
+val: images/val
+
+nc: 16 # number of identify-able objects
+names:
+  0: archers
+  1: arrows
+  2: bomber
+  3: fireball
+  4: giant
+  5: goblin-cage
+  6: goblin-hut
+  7: goblins
+  8: knight
+  9: mini-pekka
+  10: minions
+  11: musketeer
+  12: skeletons
+  13: spear-goblins
+  14: tombstone
+  15: valkyrie
