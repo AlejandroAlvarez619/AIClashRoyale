@@ -105,3 +105,11 @@ from src.<path>.<to>.<module> import <python classes, methods, and/or variables>
 ```
 
 That's also why there are "\_\_init\_\_.py" files in each directory, which tells the python interpreter that the directory is a module in our project.
+
+## Contributors
+- [@AlejandroAlvarez619](https://www.github.com/AlejandroAlvarez619)
+- [@DrewAMSD](https://github.com/DrewAMSD)
+- [@dinehart123](https://github.com/dinehart123)
+- [@nandanamanu7](https://github.com/nandanamanu7)
+- [@ryannsilverio](https://github.com/ryannsilverio)
+- [@rohsen](https://github.com/rohsen)
