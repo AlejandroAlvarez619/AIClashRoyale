@@ -1,0 +1,14 @@
+# Environment files
+.env
+.env.*
+
+# Python files
+venv/
+__pycache__/
+*.pyc
+*.db
+.venv/
+.DS_Store
+
+# log files
+*.log/ backend
